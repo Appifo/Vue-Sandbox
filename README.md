@@ -1,2 +1,2 @@
 # Vue-Sandbox
-Learning vue.js using best ractices
+Learn vue.js using best ractices
